@@ -1,0 +1,8 @@
+[package]
+name = "rqueue"
+version = "0.1.0"
+edition = "2021"
+authors = ["themanforfree@gmail.com"]
+license = "MIT"
+
+[dependencies]
